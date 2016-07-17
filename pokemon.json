@@ -1,0 +1,1363 @@
+{
+   "pokemon":[
+      {
+         "id":"1",
+         "num":"001",
+         "name":"Bulbasaur",
+         "img":"http://media.pldh.net/pokemon/go/bulbasaur.png",
+         "type": "Grass / Poison",
+         "height": "0.71 m",
+         "weight": "6.9 kg"
+      },
+      {
+         "id":"2",
+         "num":"002",
+         "name":"Ivysaur",
+         "img":"http://media.pldh.net/pokemon/go/ivysaur.png",
+         "type": "Grass / Poison",
+         "height": "0.99 m",
+         "weight": "13.0 kg"
+      },
+      {
+         "id":"3",
+         "num":"003",
+         "name":"Venusaur",
+         "img":"http://media.pldh.net/pokemon/go/venusaur.png",
+         "type": "Grass / Poison",
+         "height": "2.01 m",
+         "weight": "100.0 kg"
+      },
+      {
+         "id":"4",
+         "num":"004",
+         "name":"Charmander",
+         "img":"http://media.pldh.net/pokemon/go/charmander.png",
+         "type": "Fire",
+         "height": "0.61 m",
+         "weight": "8.5 kg"
+      },
+      {
+         "id":"5",
+         "num":"005",
+         "name":"Charmeleon",
+         "img":"http://media.pldh.net/pokemon/go/charmeleon.png",
+         "type": "Fire",
+         "height": "1.09 m",
+         "weight": "19.0 kg"
+      },
+      {
+         "id":"6",
+         "num":"006",
+         "name":"Charizard",
+         "img":"http://media.pldh.net/pokemon/go/charizard.png",
+         "type": "Fire / Flying",
+         "height": "1.70 m",
+         "weight": "90.5 kg"
+      },
+      {
+         "id":"7",
+         "num":"007",
+         "name":"Squirtle",
+         "img":"http://media.pldh.net/pokemon/go/squirtle.png",
+         "type": "Water",
+         "height": "0.51 m",
+         "weight": "9.0 kg"
+      },
+      {
+         "id":"8",
+         "num":"008",
+         "name":"Wartortle",
+         "img":"http://media.pldh.net/pokemon/go/wartortle.png",
+         "type": "Water",
+         "height": "0.99 m",
+         "weight": "22.5 kg"
+      },
+      {
+         "id":"9",
+         "num":"009",
+         "name":"Blastoise",
+         "img":"http://media.pldh.net/pokemon/go/blastoise.png",
+         "type": "Water",
+         "height": "1.60 m",
+         "weight": "85.5 kg"
+      },
+      {
+         "id":"10",
+         "num":"010",
+         "name":"Caterpie",
+         "img":"http://media.pldh.net/pokemon/go/caterpie.png",
+         "type": "Bug",
+         "height": "0.30 m",
+         "weight": "2.9 kg"
+      },
+      {
+         "id":"11",
+         "num":"011",
+         "name":"Metapod",
+         "img":"http://media.pldh.net/pokemon/go/metapod.png",
+         "type": "Bug",
+         "height": "0.71 m",
+         "weight": "9.9 kg"
+      },
+      {
+         "id":"12",
+         "num":"012",
+         "name":"Butterfree",
+         "img":"http://media.pldh.net/pokemon/go/butterfree.png",
+         "type": "Bug / Flying",
+         "height": "1.09 m",
+         "weight": "32.0 kg"
+      },
+      {
+         "id":"13",
+         "num":"013",
+         "name":"Weedle",
+         "img":"http://media.pldh.net/pokemon/go/weedle.png",
+         "type": "Bug / Poison",
+         "height": "0.30 m",
+         "weight": "3.2 kg"
+      },
+      {
+         "id":"14",
+         "num":"014",
+         "name":"Kakuna",
+         "img":"http://media.pldh.net/pokemon/go/kakuna.png",
+         "type": "Bug / Poison",
+         "height": "0.61 m",
+         "weight": "10.0 kg"
+      },
+      {
+         "id":"15",
+         "num":"015",
+         "name":"Beedrill",
+         "img":"http://media.pldh.net/pokemon/go/beedrill.png",
+         "type": "Bug / Poison",
+         "height": "0.99 m",
+         "weight": "29.5 kg"
+      },
+      {
+         "id":"16",
+         "num":"016",
+         "name":"Pidgey",
+         "img":"http://media.pldh.net/pokemon/go/pidgey.png",
+         "type": "Normal / Flying",
+         "height": "0.30 m",
+         "weight": "1.8 kg"
+      },
+      {
+         "id":"17",
+         "num":"017",
+         "name":"Pidgeotto",
+         "img":"http://media.pldh.net/pokemon/go/pidgeotto.png",
+         "type": "Normal / Flying",
+         "height": "1.09 m",
+         "weight": "30.0 kg"
+      },
+      {
+         "id":"18",
+         "num":"018",
+         "name":"Pidgeot",
+         "img":"http://media.pldh.net/pokemon/go/pidgeot.png",
+         "type": "Normal / Flying",
+         "height": "1.50 m",
+         "weight": "39.5 kg"
+      },
+      {
+         "id":"19",
+         "num":"019",
+         "name":"Rattata",
+         "img":"http://media.pldh.net/pokemon/go/rattata.png",
+         "type": "Normal",
+         "height": "0.30 m",
+         "weight": "3.5 kg"
+      },
+      {
+         "id":"20",
+         "num":"020",
+         "name":"Raticate",
+         "img":"http://media.pldh.net/pokemon/go/raticate.png",
+         "type": "Normal",
+         "height": "0.71 m",
+         "weight": "18.5 kg"
+      },
+      {
+         "id":"21",
+         "num":"021",
+         "name":"Spearow",
+         "img":"http://media.pldh.net/pokemon/go/spearow.png",
+         "type": "Normal / Flying",
+         "height": "0.30 m",
+         "weight": "2.0 kg"
+      },
+      {
+         "id":"22",
+         "num":"022",
+         "name":"Fearow",
+         "img":"http://media.pldh.net/pokemon/go/fearow.png",
+         "type": "Normal / Flying",
+         "height": "1.19 m",
+         "weight": "38.0 kg"
+      },
+      {
+         "id":"23",
+         "num":"023",
+         "name":"Ekans",
+         "img":"http://media.pldh.net/pokemon/go/ekans.png",
+         "type": "Poison",
+         "height": "2.01 m",
+         "weight": "6.9 kg"
+      },
+      {
+         "id":"24",
+         "num":"024",
+         "name":"Arbok",
+         "img":"http://media.pldh.net/pokemon/go/arbok.png",
+         "type": "Poison",
+         "height": "3.51 m",
+         "weight": "65.0 kg"
+      },
+      {
+         "id":"25",
+         "num":"025",
+         "name":"Pikachu",
+         "img":"http://media.pldh.net/pokemon/go/pikachu.png",
+         "type": "Electric",
+         "height": "0.41 m",
+         "weight": "6.0 kg"
+      },
+      {
+         "id":"26",
+         "num":"026",
+         "name":"Raichu",
+         "img":"http://media.pldh.net/pokemon/go/raichu.png",
+         "type": "Electric",
+         "height": "0.79 m",
+         "weight": "30.0 kg"
+      },
+      {
+         "id":"27",
+         "num":"027",
+         "name":"Sandshrew",
+         "img":"http://media.pldh.net/pokemon/go/sandshrew.png",
+         "type": "Ground",
+         "height": "0.61 m",
+         "weight": "12.0 kg"
+      },
+      {
+         "id":"28",
+         "num":"028",
+         "name":"Sandslash",
+         "img":"http://media.pldh.net/pokemon/go/sandslash.png",
+         "type": "Ground",
+         "height": "0.99 m",
+         "weight": "29.5 kg"
+      },
+      {
+         "id":"29",
+         "num":"029",
+         "name":"Nidoran ♀",
+         "img":"http://media.pldh.net/pokemon/go/nidoranf.png",
+         "type": "Poison",
+         "height": "0.41 m",
+         "weight": "7.0 kg"
+      },
+      {
+         "id":"30",
+         "num":"030",
+         "name":"Nidorina",
+         "img":"http://media.pldh.net/pokemon/go/nidorina.png",
+         "type": "Poison",
+         "height": "0.79 m",
+         "weight": "20.0 kg"
+      },
+      {
+         "id":"31",
+         "num":"031",
+         "name":"Nidoqueen",
+         "img":"http://media.pldh.net/pokemon/go/nidoqueen.png",
+         "type": "Poison / Ground",
+         "height": "1.30 m",
+         "weight": "60.0 kg"
+      },
+      {
+         "id":"32",
+         "num":"032",
+         "name":"Nidoran ♂",
+         "img":"http://media.pldh.net/pokemon/go/nidoranm.png",
+         "type": "Poison",
+         "height": "0.51 m",
+         "weight": "9.0 kg"
+      },
+      {
+         "id":"33",
+         "num":"033",
+         "name":"Nidorino",
+         "img":"http://media.pldh.net/pokemon/go/nidorino.png",
+         "type": "Poison",
+         "height": "0.89 m",
+         "weight": "19.5 kg"
+      },
+      {
+         "id":"34",
+         "num":"034",
+         "name":"Nidoking",
+         "img":"http://media.pldh.net/pokemon/go/nidoking.png",
+         "type": "Poison / Ground",
+         "height": "1.40 m",
+         "weight": "62.0 kg"
+      },
+      {
+         "id":"35",
+         "num":"035",
+         "name":"Clefairy",
+         "img":"http://media.pldh.net/pokemon/go/clefairy.png",
+         "type": "Normal",
+         "height": "0.61 m",
+         "weight": "7.5 kg"
+      },
+      {
+         "id":"36",
+         "num":"036",
+         "name":"Clefable",
+         "img":"http://media.pldh.net/pokemon/go/clefable.png",
+         "type": "Normal",
+         "height": "1.30 m",
+         "weight": "40.0 kg"
+      },
+      {
+         "id":"37",
+         "num":"037",
+         "name":"Vulpix",
+         "img":"http://media.pldh.net/pokemon/go/vulpix.png",
+         "type": "Fire",
+         "height": "0.61 m",
+         "weight": "9.9 kg"
+      },
+      {
+         "id":"38",
+         "num":"038",
+         "name":"Ninetales",
+         "img":"http://media.pldh.net/pokemon/go/ninetales.png",
+         "type": "Fire",
+         "height": "1.09 m",
+         "weight": "19.9 kg"
+      },
+      {
+         "id":"39",
+         "num":"039",
+         "name":"Jigglypuff",
+         "img":"http://media.pldh.net/pokemon/go/jigglypuff.png",
+         "type": "Normal",
+         "height": "0.51 m",
+         "weight": "5.5 kg"
+      },
+      {
+         "id":"40",
+         "num":"040",
+         "name":"Wigglytuff",
+         "img":"http://media.pldh.net/pokemon/go/wigglytuff.png",
+         "type": "Normal",
+         "height": "0.99 m",
+         "weight": "12.0 kg"
+      },
+      {
+         "id":"41",
+         "num":"041",
+         "name":"Zubat",
+         "img":"http://media.pldh.net/pokemon/go/zubat.png",
+         "type": "Poison / Flying",
+         "height": "0.79 m",
+         "weight": "7.5 kg"
+      },
+      {
+         "id":"42",
+         "num":"042",
+         "name":"Golbat",
+         "img":"http://media.pldh.net/pokemon/go/golbat.png",
+         "type": "Poison / Flying",
+         "height": "1.60 m",
+         "weight": "55.0 kg"
+      },
+      {
+         "id":"43",
+         "num":"043",
+         "name":"Oddish",
+         "img":"http://media.pldh.net/pokemon/go/oddish.png",
+         "type": "Grass / Poison",
+         "height": "0.51 m",
+         "weight": "5.4 kg"
+      },
+      {
+         "id":"44",
+         "num":"044",
+         "name":"Gloom",
+         "img":"http://media.pldh.net/pokemon/go/gloom.png",
+         "type": "Grass / Poison",
+         "height": "0.79 m",
+         "weight": "8.6 kg"
+      },
+      {
+         "id":"45",
+         "num":"045",
+         "name":"Vileplume",
+         "img":"http://media.pldh.net/pokemon/go/vileplume.png",
+         "type": "Grass / Poison",
+         "height": "1.19 m",
+         "weight": "18.6 kg"
+      },
+      {
+         "id":"46",
+         "num":"046",
+         "name":"Paras",
+         "img":"http://media.pldh.net/pokemon/go/paras.png",
+         "type": "Bug / Grass",
+         "height": "0.30 m",
+         "weight": "5.4 kg"
+      },
+      {
+         "id":"47",
+         "num":"047",
+         "name":"Parasect",
+         "img":"http://media.pldh.net/pokemon/go/parasect.png",
+         "type": "Bug / Grass",
+         "height": "0.99 m",
+         "weight": "29.5 kg"
+      },
+      {
+         "id":"48",
+         "num":"048",
+         "name":"Venonat",
+         "img":"http://media.pldh.net/pokemon/go/venonat.png",
+         "type": "Bug / Poison",
+         "height": "0.99 m",
+         "weight": "30.0 kg"
+      },
+      {
+         "id":"49",
+         "num":"049",
+         "name":"Venomoth",
+         "img":"http://media.pldh.net/pokemon/go/venomoth.png",
+         "type": "Bug / Poison",
+         "height": "1.50 m",
+         "weight": "12.5 kg"
+      },
+      {
+         "id":"50",
+         "num":"050",
+         "name":"Diglett",
+         "img":"http://media.pldh.net/pokemon/go/diglett.png",
+         "type": "Ground",
+         "height": "0.20 m",
+         "weight": "0.8 kg"
+      },
+      {
+         "id":"51",
+         "num":"051",
+         "name":"Dugtrio",
+         "img":"http://media.pldh.net/pokemon/go/dugtrio.png",
+         "type": "Ground",
+         "height": "0.71 m",
+         "weight": "33.3 kg"
+      },
+      {
+         "id":"52",
+         "num":"052",
+         "name":"Meowth",
+         "img":"http://media.pldh.net/pokemon/go/meowth.png",
+         "type": "Normal",
+         "height": "0.41 m",
+         "weight": "4.2 kg"
+      },
+      {
+         "id":"53",
+         "num":"053",
+         "name":"Persian",
+         "img":"http://media.pldh.net/pokemon/go/persian.png",
+         "type": "Normal",
+         "height": "0.99 m",
+         "weight": "32.0 kg"
+      },
+      {
+         "id":"54",
+         "num":"054",
+         "name":"Psyduck",
+         "img":"http://media.pldh.net/pokemon/go/psyduck.png",
+         "type": "Water",
+         "height": "0.79 m",
+         "weight": "19.6 kg"
+      },
+      {
+         "id":"55",
+         "num":"055",
+         "name":"Golduck",
+         "img":"http://media.pldh.net/pokemon/go/golduck.png",
+         "type": "Water",
+         "height": "1.70 m",
+         "weight": "76.6 kg"
+      },
+      {
+         "id":"56",
+         "num":"056",
+         "name":"Mankey",
+         "img":"http://media.pldh.net/pokemon/go/mankey.png",
+         "type": "Fighting",
+         "height": "0.51 m",
+         "weight": "28.0 kg"
+      },
+      {
+         "id":"57",
+         "num":"057",
+         "name":"Primeape",
+         "img":"http://media.pldh.net/pokemon/go/primeape.png",
+         "type": "Fighting",
+         "height": "0.99 m",
+         "weight": "32.0 kg"
+      },
+      {
+         "id":"58",
+         "num":"058",
+         "name":"Growlithe",
+         "img":"http://media.pldh.net/pokemon/go/growlithe.png",
+         "type": "Fire",
+         "height": "0.71 m",
+         "weight": "19.0 kg"
+      },
+      {
+         "id":"59",
+         "num":"059",
+         "name":"Arcanine",
+         "img":"http://media.pldh.net/pokemon/go/arcanine.png",
+         "type": "Fire",
+         "height": "1.91 m",
+         "weight": "155.0 kg"
+      },
+      {
+         "id":"60",
+         "num":"060",
+         "name":"Poliwag",
+         "img":"http://media.pldh.net/pokemon/go/poliwag.png",
+         "type": "Water",
+         "height": "0.61 m",
+         "weight": "12.4 kg"
+      },
+      {
+         "id":"61",
+         "num":"061",
+         "name":"Poliwhirl",
+         "img":"http://media.pldh.net/pokemon/go/poliwhirl.png",
+         "type": "Water",
+         "height": "0.99 m",
+         "weight": "20.0 kg"
+      },
+      {
+         "id":"62",
+         "num":"062",
+         "name":"Poliwrath",
+         "img":"http://media.pldh.net/pokemon/go/poliwrath.png",
+         "type": "Water / Fighting",
+         "height": "1.30 m",
+         "weight": "54.0 kg"
+      },
+      {
+         "id":"63",
+         "num":"063",
+         "name":"Abra",
+         "img":"http://media.pldh.net/pokemon/go/abra.png",
+         "type": "Psychic",
+         "height": "0.89 m",
+         "weight": "19.5 kg"
+      },
+      {
+         "id":"64",
+         "num":"064",
+         "name":"Kadabra",
+         "img":"http://media.pldh.net/pokemon/go/kadabra.png",
+         "type": "Psychic",
+         "height": "1.30 m",
+         "weight": "56.5 kg"
+      },
+      {
+         "id":"65",
+         "num":"065",
+         "name":"Alakazam",
+         "img":"http://media.pldh.net/pokemon/go/alakazam.png",
+         "type": "Psychic",
+         "height": "1.50 m",
+         "weight": "48.0 kg"
+      },
+      {
+         "id":"66",
+         "num":"066",
+         "name":"Machop",
+         "img":"http://media.pldh.net/pokemon/go/machop.png",
+         "type": "Fighting",
+         "height": "0.79 m",
+         "weight": "19.5 kg"
+      },
+      {
+         "id":"67",
+         "num":"067",
+         "name":"Machoke",
+         "img":"http://media.pldh.net/pokemon/go/machoke.png",
+         "type": "Fighting",
+         "height": "1.50 m",
+         "weight": "70.5 kg"
+      },
+      {
+         "id":"68",
+         "num":"068",
+         "name":"Machamp",
+         "img":"http://media.pldh.net/pokemon/go/machamp.png",
+         "type": "Fighting",
+         "height": "1.60 m",
+         "weight": "130.0 kg"
+      },
+      {
+         "id":"69",
+         "num":"069",
+         "name":"Bellsprout",
+         "img":"http://media.pldh.net/pokemon/go/bellsprout.png",
+         "type": "Grass / Poison",
+         "height": "0.71 m",
+         "weight": "4.0 kg"
+      },
+      {
+         "id":"70",
+         "num":"070",
+         "name":"Weepinbell",
+         "img":"http://media.pldh.net/pokemon/go/weepinbell.png",
+         "type": "Grass / Poison",
+         "height": "0.99 m",
+         "weight": "6.4 kg"
+      },
+      {
+         "id":"71",
+         "num":"071",
+         "name":"Victreebel",
+         "img":"http://media.pldh.net/pokemon/go/victreebel.png",
+         "type": "Grass / Poison",
+         "height": "1.70 m",
+         "weight": "15.5 kg"
+      },
+      {
+         "id":"72",
+         "num":"072",
+         "name":"Tentacool",
+         "img":"http://media.pldh.net/pokemon/go/tentacool.png",
+         "type": "Water / Poison",
+         "height": "0.89 m",
+         "weight": "45.5 kg"
+      },
+      {
+         "id":"73",
+         "num":"073",
+         "name":"Tentacruel",
+         "img":"http://media.pldh.net/pokemon/go/tentacruel.png",
+         "type": "Water / Poison",
+         "height": "1.60 m",
+         "weight": "55.0 kg"
+      },
+      {
+         "id":"74",
+         "num":"074",
+         "name":"Geodude",
+         "img":"http://media.pldh.net/pokemon/go/geodude.png",
+         "type": "Rock / Ground",
+         "height": "0.41 m",
+         "weight": "20.0 kg"
+      },
+      {
+         "id":"75",
+         "num":"075",
+         "name":"Graveler",
+         "img":"http://media.pldh.net/pokemon/go/graveler.png",
+         "type": "Rock / Ground",
+         "height": "0.99 m",
+         "weight": "105.0 kg"
+      },
+      {
+         "id":"76",
+         "num":"076",
+         "name":"Golem",
+         "img":"http://media.pldh.net/pokemon/go/golem.png",
+         "type": "Rock / Ground",
+         "height": "1.40 m",
+         "weight": "300.0 kg"
+      },
+      {
+         "id":"77",
+         "num":"077",
+         "name":"Ponyta",
+         "img":"http://media.pldh.net/pokemon/go/ponyta.png",
+         "type": "Fire",
+         "height": "0.99 m",
+         "weight": "30.0 kg"
+      },
+      {
+         "id":"78",
+         "num":"078",
+         "name":"Rapidash",
+         "img":"http://media.pldh.net/pokemon/go/rapidash.png",
+         "type": "Fire",
+         "height": "1.70 m",
+         "weight": "95.0 kg"
+      },
+      {
+         "id":"79",
+         "num":"079",
+         "name":"Slowpoke",
+         "img":"http://media.pldh.net/pokemon/go/slowpoke.png",
+         "type": "Water / Psychic",
+         "height": "1.19 m",
+         "weight": "36.0 kg"
+      },
+      {
+         "id":"80",
+         "num":"080",
+         "name":"Slowbro",
+         "img":"http://media.pldh.net/pokemon/go/slowbro.png",
+         "type": "Water / Psychic",
+         "height": "1.60 m",
+         "weight": "78.5 kg"
+      },
+      {
+         "id":"81",
+         "num":"081",
+         "name":"Magnemite",
+         "img":"http://media.pldh.net/pokemon/go/magnemite.png",
+         "type": "Electric",
+         "height": "0.30 m",
+         "weight": "6.0 kg"
+      },
+      {
+         "id":"82",
+         "num":"082",
+         "name":"Magneton",
+         "img":"http://media.pldh.net/pokemon/go/magneton.png",
+         "type": "Electric",
+         "height": "0.99 m",
+         "weight": "60.0 kg"
+      },
+      {
+         "id":"83",
+         "num":"083",
+         "name":"Farfetch'd",
+         "img":"http://media.pldh.net/pokemon/go/farfetchd.png",
+         "type": "Normal / Flying",
+         "height": "0.79 m",
+         "weight": "15.0 kg"
+      },
+      {
+         "id":"84",
+         "num":"084",
+         "name":"Doduo",
+         "img":"http://media.pldh.net/pokemon/go/doduo.png",
+         "type": "Normal / Flying",
+         "height": "1.40 m",
+         "weight": "39.2 kg"
+      },
+      {
+         "id":"85",
+         "num":"085",
+         "name":"Dodrio",
+         "img":"http://media.pldh.net/pokemon/go/dodrio.png",
+         "type": "Normal / Flying",
+         "height": "1.80 m",
+         "weight": "85.2 kg"
+      },
+      {
+         "id":"86",
+         "num":"086",
+         "name":"Seel",
+         "img":"http://media.pldh.net/pokemon/go/seel.png",
+         "type": "Water",
+         "height": "1.09 m",
+         "weight": "90.0 kg"
+      },
+      {
+         "id":"87",
+         "num":"087",
+         "name":"Dewgong",
+         "img":"http://media.pldh.net/pokemon/go/dewgong.png",
+         "type": "Water / Ice",
+         "height": "1.70 m",
+         "weight": "120.0 kg"
+      },
+      {
+         "id":"88",
+         "num":"088",
+         "name":"Grimer",
+         "img":"http://media.pldh.net/pokemon/go/grimer.png",
+         "type": "Poison",
+         "height": "0.89 m",
+         "weight": "30.0 kg"
+      },
+      {
+         "id":"89",
+         "num":"089",
+         "name":"Muk",
+         "img":"http://media.pldh.net/pokemon/go/muk.png",
+         "type": "Poison",
+         "height": "1.19 m",
+         "weight": "30.0 kg"
+      },
+      {
+         "id":"90",
+         "num":"090",
+         "name":"Shellder",
+         "img":"http://media.pldh.net/pokemon/go/shellder.png",
+         "type": "Water",
+         "height": "0.30 m",
+         "weight": "4.0 kg"
+      },
+      {
+         "id":"91",
+         "num":"091",
+         "name":"Cloyster",
+         "img":"http://media.pldh.net/pokemon/go/cloyster.png",
+         "type": "Water / Ice",
+         "height": "1.50 m",
+         "weight": "132.5 kg"
+      },
+      {
+         "id":"92",
+         "num":"092",
+         "name":"Gastly",
+         "img":"http://media.pldh.net/pokemon/go/gastly.png",
+         "type": "Ghost / Poison",
+         "height": "1.30 m",
+         "weight": "0.1 kg"
+      },
+      {
+         "id":"93",
+         "num":"093",
+         "name":"Haunter",
+         "img":"http://media.pldh.net/pokemon/go/haunter.png",
+         "type": "Ghost / Poison",
+         "height": "1.60 m",
+         "weight": "0.1 kg"
+      },
+      {
+         "id":"94",
+         "num":"094",
+         "name":"Gengar",
+         "img":"http://media.pldh.net/pokemon/go/gengar.png",
+         "type": "Ghost / Poison",
+         "height": "1.50 m",
+         "weight": "40.5 kg"
+      },
+      {
+         "id":"95",
+         "num":"095",
+         "name":"Onix",
+         "img":"http://media.pldh.net/pokemon/go/onix.png",
+         "type": "Rock / Ground",
+         "height": "8.79 m",
+         "weight": "210.0 kg"
+      },
+      {
+         "id":"96",
+         "num":"096",
+         "name":"Drowzee",
+         "img":"http://media.pldh.net/pokemon/go/drowzee.png",
+         "type": "Psychic",
+         "height": "0.99 m",
+         "weight": "32.4 kg"
+      },
+      {
+         "id":"97",
+         "num":"097",
+         "name":"Hypno",
+         "img":"http://media.pldh.net/pokemon/go/hypno.png",
+         "type": "Psychic",
+         "height": "1.60 m",
+         "weight": "75.6 kg"
+      },
+      {
+         "id":"98",
+         "num":"098",
+         "name":"Krabby",
+         "img":"http://media.pldh.net/pokemon/go/krabby.png",
+         "type": "Water",
+         "height": "0.41 m",
+         "weight": "6.5 kg"
+      },
+      {
+         "id":"99",
+         "num":"099",
+         "name":"Kingler",
+         "img":"http://media.pldh.net/pokemon/go/kingler.png",
+         "type": "Water",
+         "height": "1.30 m",
+         "weight": "60.0 kg"
+      },
+      {
+         "id":"100",
+         "num":"100",
+         "name":"Voltorb",
+         "img":"http://media.pldh.net/pokemon/go/voltorb.png",
+         "type": "Electric",
+         "height": "0.51 m",
+         "weight": "10.4 kg"
+      },
+      {
+         "id":"101",
+         "num":"101",
+         "name":"Electrode",
+         "img":"http://media.pldh.net/pokemon/go/electrode.png",
+         "type": "Electric",
+         "height": "1.19 m",
+         "weight": "66.6 kg"
+      },
+      {
+         "id":"102",
+         "num":"102",
+         "name":"Exeggcute",
+         "img":"http://media.pldh.net/pokemon/go/exeggcute.png",
+         "type": "Grass / Psychic",
+         "height": "0.41 m",
+         "weight": "2.5 kg"
+      },
+      {
+         "id":"103",
+         "num":"103",
+         "name":"Exeggutor",
+         "img":"http://media.pldh.net/pokemon/go/exeggutor.png",
+         "type": "Grass / Psychic",
+         "height": "2.01 m",
+         "weight": "120.0 kg"
+      },
+      {
+         "id":"104",
+         "num":"104",
+         "name":"Cubone",
+         "img":"http://media.pldh.net/pokemon/go/cubone.png",
+         "type": "Ground",
+         "height": "0.41 m",
+         "weight": "6.5 kg"
+      },
+      {
+         "id":"105",
+         "num":"105",
+         "name":"Marowak",
+         "img":"http://media.pldh.net/pokemon/go/marowak.png",
+         "type": "Ground",
+         "height": "0.99 m",
+         "weight": "45.0 kg"
+      },
+      {
+         "id":"106",
+         "num":"106",
+         "name":"Hitmonlee",
+         "img":"http://media.pldh.net/pokemon/go/hitmonlee.png",
+         "type": "Fighting",
+         "height": "1.50 m",
+         "weight": "49.8 kg"
+      },
+      {
+         "id":"107",
+         "num":"107",
+         "name":"Hitmonchan",
+         "img":"http://media.pldh.net/pokemon/go/hitmonchan.png",
+         "type": "Fighting",
+         "height": "1.40 m",
+         "weight": "50.2 kg"
+      },
+      {
+         "id":"108",
+         "num":"108",
+         "name":"Lickitung",
+         "img":"http://media.pldh.net/pokemon/go/lickitung.png",
+         "type": "Normal",
+         "height": "1.19 m",
+         "weight": "65.5 kg"
+      },
+      {
+         "id":"109",
+         "num":"109",
+         "name":"Koffing",
+         "img":"http://media.pldh.net/pokemon/go/koffing.png",
+         "type": "Poison",
+         "height": "0.61 m",
+         "weight": "1.0 kg"
+      },
+      {
+         "id":"110",
+         "num":"110",
+         "name":"Weezing",
+         "img":"http://media.pldh.net/pokemon/go/weezing.png",
+         "type": "Poison",
+         "height": "1.19 m",
+         "weight": "9.5 kg"
+      },
+      {
+         "id":"111",
+         "num":"111",
+         "name":"Rhyhorn",
+         "img":"http://media.pldh.net/pokemon/go/rhyhorn.png",
+         "type": "Ground / Rock",
+         "height": "0.99 m",
+         "weight": "115.0 kg"
+      },
+      {
+         "id":"112",
+         "num":"112",
+         "name":"Rhydon",
+         "img":"http://media.pldh.net/pokemon/go/rhydon.png",
+         "type": "Ground / Rock",
+         "height": "1.91 m",
+         "weight": "120.0 kg"
+      },
+      {
+         "id":"113",
+         "num":"113",
+         "name":"Chansey",
+         "img":"http://media.pldh.net/pokemon/go/chansey.png",
+         "type": "Normal",
+         "height": "1.09 m",
+         "weight": "34.6 kg"
+      },
+      {
+         "id":"114",
+         "num":"114",
+         "name":"Tangela",
+         "img":"http://pldh.net/media/sugimori/114.png",
+         "type": "Grass",
+         "height": "0.99 m",
+         "weight": "35.0 kg"
+      },
+      {
+         "id":"115",
+         "num":"115",
+         "name":"Kangaskhan",
+         "img":"http://media.pldh.net/pokemon/go/kangaskhan.png",
+         "type": "Normal",
+         "height": "2.21 m",
+         "weight": "80.0 kg"
+      },
+      {
+         "id":"116",
+         "num":"116",
+         "name":"Horsea",
+         "img":"http://media.pldh.net/pokemon/go/horsea.png",
+         "type": "Water",
+         "height": "0.41 m",
+         "weight": "8.0 kg"
+      },
+      {
+         "id":"117",
+         "num":"117",
+         "name":"Seadra",
+         "img":"http://media.pldh.net/pokemon/go/seadra.png",
+         "type": "Water",
+         "height": "1.19 m",
+         "weight": "25.0 kg"
+      },
+      {
+         "id":"118",
+         "num":"118",
+         "name":"Goldeen",
+         "img":"http://media.pldh.net/pokemon/go/goldeen.png",
+         "type": "Water",
+         "height": "0.61 m",
+         "weight": "15.0 kg"
+      },
+      {
+         "id":"119",
+         "num":"119",
+         "name":"Seaking",
+         "img":"http://media.pldh.net/pokemon/go/seaking.png",
+         "type": "Water",
+         "height": "1.30 m",
+         "weight": "39.0 kg"
+      },
+      {
+         "id":"120",
+         "num":"120",
+         "name":"Staryu",
+         "img":"http://media.pldh.net/pokemon/go/staryu.png",
+         "type": "Water",
+         "height": "0.79 m",
+         "weight": "34.5 kg"
+      },
+      {
+         "id":"121",
+         "num":"121",
+         "name":"Starmie",
+         "img":"http://media.pldh.net/pokemon/go/starmie.png",
+         "type": "Water / Psychic",
+         "height": "1.09 m",
+         "weight": "80.0 kg"
+      },
+      {
+         "id":"122",
+         "num":"122",
+         "name":"Mr. Mime",
+         "img":"http://media.pldh.net/pokemon/go/mrmime.png",
+         "type": "Psychic",
+         "height": "1.30 m",
+         "weight": "54.5 kg"
+      },
+      {
+         "id":"123",
+         "num":"123",
+         "name":"Scyther",
+         "img":"http://media.pldh.net/pokemon/go/scyther.png",
+         "type": "Bug / Flying",
+         "height": "1.50 m",
+         "weight": "56.0 kg"
+      },
+      {
+         "id":"124",
+         "num":"124",
+         "name":"Jynx",
+         "img":"http://media.pldh.net/pokemon/go/jynx.png",
+         "type": "Ice / Psychic",
+         "height": "1.40 m",
+         "weight": "40.6 kg"
+      },
+      {
+         "id":"125",
+         "num":"125",
+         "name":"Electabuzz",
+         "img":"http://media.pldh.net/pokemon/go/electabuzz.png",
+         "type": "Electric",
+         "height": "1.09 m",
+         "weight": "30.0 kg"
+      },
+      {
+         "id":"126",
+         "num":"126",
+         "name":"Magmar",
+         "img":"http://media.pldh.net/pokemon/go/magmar.png",
+         "type": "Fire",
+         "height": "1.30 m",
+         "weight": "44.5 kg"
+      },
+      {
+         "id":"127",
+         "num":"127",
+         "name":"Pinsir",
+         "img":"http://media.pldh.net/pokemon/go/pinsir.png",
+         "type": "Bug",
+         "height": "1.50 m",
+         "weight": "55.0 kg"
+      },
+      {
+         "id":"128",
+         "num":"128",
+         "name":"Tauros",
+         "img":"http://media.pldh.net/pokemon/go/tauros.png",
+         "type": "Normal",
+         "height": "1.40 m",
+         "weight": "88.4 kg"
+      },
+      {
+         "id":"129",
+         "num":"129",
+         "name":"Magikarp",
+         "img":"http://media.pldh.net/pokemon/go/magikarp.png",
+         "type": "Water",
+         "height": "0.89 m",
+         "weight": "10.0 kg"
+      },
+      {
+         "id":"130",
+         "num":"130",
+         "name":"Gyarados",
+         "img":"http://media.pldh.net/pokemon/go/gyarados.png",
+         "type": "Water / Flying",
+         "height": "6.50 m",
+         "weight": "235.0 kg"
+      },
+      {
+         "id":"131",
+         "num":"131",
+         "name":"Lapras",
+         "img":"http://media.pldh.net/pokemon/go/lapras.png",
+         "type": "Water / Ice",
+         "height": "2.49 m",
+         "weight": "220.0 kg"
+      },
+      {
+         "id":"132",
+         "num":"132",
+         "name":"Ditto",
+         "img":"http://media.pldh.net/pokemon/go/ditto.png",
+         "type": "Normal",
+         "height": "0.30 m",
+         "weight": "4.0 kg"
+      },
+      {
+         "id":"133",
+         "num":"133",
+         "name":"Eevee",
+         "img":"http://media.pldh.net/pokemon/go/eevee.png",
+         "type": "Normal",
+         "height": "0.30 m",
+         "weight": "6.5 kg"
+      },
+      {
+         "id":"134",
+         "num":"134",
+         "name":"Vaporeon",
+         "img":"http://media.pldh.net/pokemon/go/vaporeon.png",
+         "type": "Water",
+         "height": "0.99 m",
+         "weight": "29.0 kg"
+      },
+      {
+         "id":"135",
+         "num":"135",
+         "name":"Jolteon",
+         "img":"http://media.pldh.net/pokemon/go/jolteon.png",
+         "type": "Electric",
+         "height": "0.79 m",
+         "weight": "24.5 kg"
+      },
+      {
+         "id":"136",
+         "num":"136",
+         "name":"Flareon",
+         "img":"http://media.pldh.net/pokemon/go/flareon.png",
+         "type": "Fire",
+         "height": "0.89 m",
+         "weight": "25.0 kg"
+      },
+      {
+         "id":"137",
+         "num":"137",
+         "name":"Porygon",
+         "img":"http://media.pldh.net/pokemon/go/porygon.png",
+         "type": "Normal",
+         "height": "0.79 m",
+         "weight": "36.5 kg"
+      },
+      {
+         "id":"138",
+         "num":"138",
+         "name":"Omanyte",
+         "img":"http://media.pldh.net/pokemon/go/omanyte.png",
+         "type": "Rock / Water",
+         "height": "0.41 m",
+         "weight": "7.5 kg"
+      },
+      {
+         "id":"139",
+         "num":"139",
+         "name":"Omastar",
+         "img":"http://media.pldh.net/pokemon/go/omastar.png",
+         "type": "Rock / Water",
+         "height": "0.99 m",
+         "weight": "35.0 kg"
+      },
+      {
+         "id":"140",
+         "num":"140",
+         "name":"Kabuto",
+         "img":"http://media.pldh.net/pokemon/go/kabuto.png",
+         "type": "Rock / Water",
+         "height": "0.51 m",
+         "weight": "11.5 kg"
+      },
+      {
+         "id":"141",
+         "num":"141",
+         "name":"Kabutops",
+         "img":"http://media.pldh.net/pokemon/go/kabutops.png",
+         "type": "Rock / Water",
+         "height": "1.30 m",
+         "weight": "40.5 kg"
+      },
+      {
+         "id":"142",
+         "num":"142",
+         "name":"Aerodactyl",
+         "img":"http://media.pldh.net/pokemon/go/aerodactyl.png",
+         "type": "Rock / Flying",
+         "height": "1.80 m",
+         "weight": "59.0 kg"
+      },
+      {
+         "id":"143",
+         "num":"143",
+         "name":"Snorlax",
+         "img":"http://media.pldh.net/pokemon/go/snorlax.png",
+         "type": "Normal",
+         "height": "2.11 m",
+         "weight": "460.0 kg"
+      },
+      {
+         "id":"144",
+         "num":"144",
+         "name":"Articuno",
+         "img":"http://media.pldh.net/pokemon/go/articuno.png",
+         "type": "Ice / Flying",
+         "height": "1.70 m",
+         "weight": "55.4 kg"
+      },
+      {
+         "id":"145",
+         "num":"145",
+         "name":"Zapdos",
+         "img":"http://media.pldh.net/pokemon/go/zapdos.png",
+         "type": "Electric / Flying",
+         "height": "1.60 m",
+         "weight": "52.6 kg"
+      },
+      {
+         "id":"146",
+         "num":"146",
+         "name":"Moltres",
+         "img":"http://media.pldh.net/pokemon/go/moltres.png",
+         "type": "Fire / Flying",
+         "height": "2.01 m",
+         "weight": "60.0 kg"
+      },
+      {
+         "id":"147",
+         "num":"147",
+         "name":"Dratini",
+         "img":"http://media.pldh.net/pokemon/go/dratini.png",
+         "type": "Dragon",
+         "height": "1.80 m",
+         "weight": "3.3 kg"
+      },
+      {
+         "id":"148",
+         "num":"148",
+         "name":"Dragonair",
+         "img":"http://media.pldh.net/pokemon/go/dragonair.png",
+         "type": "Dragon",
+         "height": "3.99 m",
+         "weight": "16.5 kg"
+      },
+      {
+         "id":"149",
+         "num":"149",
+         "name":"Dragonite",
+         "img":"http://media.pldh.net/pokemon/go/dragonite.png",
+         "type": "Dragon / Flying",
+         "height": "2.21 m",
+         "weight": "210.0 kg"
+      },
+      {
+         "id":"150",
+         "num":"150",
+         "name":"Mewtwo",
+         "img":"http://media.pldh.net/pokemon/go/mewtwo.png",
+         "type": "Psychic",
+         "height": "2.01 m",
+         "weight": "122.0 kg"
+      },
+      {
+         "id":"151",
+         "num":"151",
+         "name":"Mew",
+         "img":"http://media.pldh.net/pokemon/go/mew.png",
+         "type": "Psychic",
+         "height": "0.41 m",
+         "weight": "4.0 kg"
+      }
+   ]
+}
