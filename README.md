@@ -3,7 +3,7 @@ Pokédex of Pokémon GO in JSON
 
 # Elements
 *   **id**: *Identification Number*
-*   **num**: *Number of Pokémon in the official Pokédex *
+*   **num**: *Number of Pokémon in the official Pokédex*
 *   **name**: *Pokémon name*
 *   **img**: *Pokémon image*
 *   **type**: *Pokémon type*
