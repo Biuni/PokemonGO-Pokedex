@@ -9,5 +9,5 @@ Pokédex of Pokémon GO in JSON
 *   **type**: *Pokémon type*
 *   **height**: *Pokémon height*
 *   **weight**: *Pokémon weight*
-*   **candy**: *Number of candy to evolve Pokémon (in progress)*
-*   **egg**: *Number of kilometers to travel to hatch the egg (in progress)*
+*   **candy**: *Number of candy to evolve Pokémon*
+*   **egg**: *Number of kilometers to travel to hatch the egg*
