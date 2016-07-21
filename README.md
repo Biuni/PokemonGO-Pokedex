@@ -11,3 +11,7 @@ Pokédex of Pokémon GO in JSON
 *   **weight**: *Pokémon weight*
 *   **candy**: *Number of candy to evolve Pokémon*
 *   **egg**: *Number of kilometers to travel to hatch the egg*
+*   **multipliers**: *Multipler of Combat Power (CP) for calculate the CP after evolution* (NEW) 
+*   **weakness**: *Types of Pokémon weakness on the battle* (NEW)
+*   **next_evolution**: *Number and Name of successive evolutions of pokemon* (NEW)
+*   **prev_evolution**: *Number and Name of previous evolutions of pokemon* (NEW)
