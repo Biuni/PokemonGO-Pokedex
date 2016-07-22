@@ -11,7 +11,7 @@
          "candy":"25 Bulbasaur Candy",
          "egg":"2 km",
          "multipliers":1.58,
-         "weakness":[
+         "weaknesses":[
             "Fire",
             "Ice",
             "Flying",
