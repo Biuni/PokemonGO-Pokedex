@@ -1,11 +1,11 @@
 {
    "pokemon":[
       {
-         "id":1,
+         "id":150,
          "num":"001",
-         "name":"Bulbasaur",
+         "name":"MewTwo",
          "img":"http://www.serebii.net/pokemongo/pokemon/001.png",
-         "type":"Grass / Poison",
+         "type":"Psychic",
          "height":"0.71 m",
          "weight":"6.9 kg",
          "candy":"25 Bulbasaur Candy",
