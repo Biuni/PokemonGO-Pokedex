@@ -9,7 +9,8 @@ Pokédex of Pokémon GO in JSON
 *   **type**: *Pokémon type*
 *   **height**: *Pokémon height*
 *   **weight**: *Pokémon weight*
-*   **candy**: *Number of candy to evolve Pokémon*
+*   **candy**: *type of candy used to evolve Pokémon or given when transfered*
+*   **candy_count**: *amount of candies required to evolve*
 *   **egg**: *Number of kilometers to travel to hatch the egg*
 *   **multipliers**: *Multipler of Combat Power (CP) for calculating the CP after evolution* **(NEW)**  [See below](#multipliers)
 *   **weakness**: *Types of Pokémon this Pokémon is weak to* **(NEW)**
