@@ -9,7 +9,7 @@
       "height":"0.71 m",
       "weight":"6.9 kg",
       "candy":"Bulbasaur Candy",
-      "candy_count":"25",
+      "candy_count":25,
       "egg":"2 km",
       "multipliers":1.58,
       "weaknesses":[
@@ -38,7 +38,7 @@
       "height":"0.99 m",
       "weight":"13.0 kg",
       "candy":"Bulbasaur Candy",
-      "candy_count":"100",
+      "candy_count":100,
       "egg":"Not in Eggs",
       "multipliers":[
         1.2,
@@ -100,7 +100,7 @@
       "height":"0.61 m",
       "weight":"8.5 kg",
       "candy":"Charmander Candy",
-      "candy_count":"25",
+      "candy_count":25,
       "egg":"2 km",
       "multipliers":1.65,
       "weaknesses":[
@@ -128,7 +128,7 @@
       "height":"1.09 m",
       "weight":"19.0 kg",
       "candy":"Charmander Candy",
-      "candy_count":"100",
+      "candy_count":100,
       "egg":"Not in Eggs",
       "multipliers":1.79,
       "weaknesses":[
@@ -185,7 +185,7 @@
       "height":"0.51 m",
       "weight":"9.0 kg",
       "candy":"Squirtle Candy",
-      "candy_count":"25",
+      "candy_count":25,
       "egg":"2 km",
       "multipliers":2.1,
       "weaknesses":[
@@ -212,7 +212,7 @@
       "height":"0.99 m",
       "weight":"22.5 kg",
       "candy":"Squirtle Candy",
-      "candy_count":"100",
+      "candy_count":100,
       "egg":"Not in Eggs",
       "multipliers":1.4,
       "weaknesses":[
@@ -267,7 +267,7 @@
       "height":"0.30 m",
       "weight":"2.9 kg",
       "candy":"Caterpie Candy",
-      "candy_count":"12",
+      "candy_count":12,
       "egg":"2 km",
       "multipliers":1.05,
       "weaknesses":[
@@ -295,7 +295,7 @@
       "height":"0.71 m",
       "weight":"9.9 kg",
       "candy":"Caterpie Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"Not in Eggs",
       "multipliers":[
         3.55,
@@ -357,7 +357,7 @@
       "height":"0.30 m",
       "weight":"3.2 kg",
       "candy":"Weedle Candy",
-      "candy_count":"12",
+      "candy_count":12,
       "egg":"2 km",
       "multipliers":[
         1.01,
@@ -389,7 +389,7 @@
       "height":"0.61 m",
       "weight":"10.0 kg",
       "candy":"Weedle Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"Not in Eggs",
       "multipliers":[
         3.01,
@@ -451,7 +451,7 @@
       "height":"0.30 m",
       "weight":"1.8 kg",
       "candy":"Pidgey Candy",
-      "candy_count":"12",
+      "candy_count":12,
       "egg":"2 km",
       "multipliers":[
         1.71,
@@ -481,7 +481,7 @@
       "height":"1.09 m",
       "weight":"30.0 kg",
       "candy":"Pidgey Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"Not in Eggs",
       "multipliers":1.79,
       "weaknesses":[
@@ -536,7 +536,7 @@
       "height":"0.30 m",
       "weight":"3.5 kg",
       "candy":"Rattata Candy",
-      "candy_count":"25",
+      "candy_count":25,
       "egg":"2 km",
       "multipliers":[
         2.55,
@@ -582,7 +582,7 @@
       "height":"0.30 m",
       "weight":"2.0 kg",
       "candy":"Spearow Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"2 km",
       "multipliers":[
         2.66,
@@ -630,7 +630,7 @@
       "height":"2.01 m",
       "weight":"6.9 kg",
       "candy":"Ekans Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":[
         2.21,
@@ -678,7 +678,7 @@
       "height":"0.41 m",
       "weight":"6.0 kg",
       "candy":"Pikachu Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"2 km",
       "multipliers":2.34,
       "weaknesses":[
@@ -721,7 +721,7 @@
       "height":"0.61 m",
       "weight":"12.0 kg",
       "candy":"Sandshrew Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":2.45,
       "weaknesses":[
@@ -768,7 +768,7 @@
       "height":"0.41 m",
       "weight":"7.0 kg",
       "candy":"Nidoran ♀ (Female) Candy",
-      "candy_count":"25",
+      "candy_count":25,
       "egg":"5 km",
       "multipliers":[
         1.63,
@@ -798,7 +798,7 @@
       "height":"0.79 m",
       "weight":"20.0 kg",
       "candy":"Nidoran ♀ (Female) Candy",
-      "candy_count":"100",
+      "candy_count":100,
       "egg":"Not in Eggs",
       "multipliers":[
         1.83,
@@ -858,7 +858,7 @@
       "height":"0.51 m",
       "weight":"9.0 kg",
       "candy":"Nidoran ♂ (Male) Candy",
-      "candy_count":"25",
+      "candy_count":25,
       "egg":"5 km",
       "multipliers":[
         1.64,
@@ -888,7 +888,7 @@
       "height":"0.89 m",
       "weight":"19.5 kg",
       "candy":"Nidoran ♂ (Male) Candy",
-      "candy_count":"100",
+      "candy_count":100,
       "egg":"Not in Eggs",
       "multipliers":1.83,
       "weaknesses":[
@@ -945,7 +945,7 @@
       "height":"0.61 m",
       "weight":"7.5 kg",
       "candy":"Clefairy Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"2 km",
       "multipliers":[
         2.03,
@@ -991,7 +991,7 @@
       "height":"0.61 m",
       "weight":"9.9 kg",
       "candy":"Vulpix Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":[
         2.74,
@@ -1041,7 +1041,7 @@
       "height":"0.51 m",
       "weight":"5.5 kg",
       "candy":"Jigglypuff Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"2 km",
       "multipliers":1.85,
       "weaknesses":[
@@ -1084,7 +1084,7 @@
       "height":"0.79 m",
       "weight":"7.5 kg",
       "candy":"Zubat Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"2 km",
       "multipliers":[
         2.6,
@@ -1136,7 +1136,7 @@
       "height":"0.51 m",
       "weight":"5.4 kg",
       "candy":"Oddish Candy",
-      "candy_count":"25",
+      "candy_count":25,
       "egg":"5 km",
       "multipliers":1.5,
       "weaknesses":[
@@ -1165,7 +1165,7 @@
       "height":"0.79 m",
       "weight":"8.6 kg",
       "candy":"Oddish Candy",
-      "candy_count":"100",
+      "candy_count":100,
       "egg":"Not in Eggs",
       "multipliers":1.49,
       "weaknesses":[
@@ -1224,7 +1224,7 @@
       "height":"0.30 m",
       "weight":"5.4 kg",
       "candy":"Paras Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":2.02,
       "weaknesses":[
@@ -1277,7 +1277,7 @@
       "height":"0.99 m",
       "weight":"30.0 kg",
       "candy":"Venonat Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":[
         1.86,
@@ -1329,7 +1329,7 @@
       "height":"0.20 m",
       "weight":"0.8 kg",
       "candy":"Diglett Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":2.69,
       "weaknesses":[
@@ -1376,7 +1376,7 @@
       "height":"0.41 m",
       "weight":"4.2 kg",
       "candy":"Meowth Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":1.98,
       "weaknesses":[
@@ -1419,7 +1419,7 @@
       "height":"0.79 m",
       "weight":"19.6 kg",
       "candy":"Psyduck Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":2.27,
       "weaknesses":[
@@ -1464,7 +1464,7 @@
       "height":"0.51 m",
       "weight":"28.0 kg",
       "candy":"Mankey Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":[
         2.17,
@@ -1514,7 +1514,7 @@
       "height":"0.71 m",
       "weight":"19.0 kg",
       "candy":"Growlithe Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":[
         2.31,
@@ -1564,7 +1564,7 @@
       "height":"0.61 m",
       "weight":"12.4 kg",
       "candy":"Poliwag Candy",
-      "candy_count":"25",
+      "candy_count":25,
       "egg":"5 km",
       "multipliers":[
         1.72,
@@ -1594,7 +1594,7 @@
       "height":"0.99 m",
       "weight":"20.0 kg",
       "candy":"Poliwag Candy",
-      "candy_count":"100",
+      "candy_count":100,
       "egg":"Not in Eggs",
       "multipliers":1.95,
       "weaknesses":[
@@ -1652,7 +1652,7 @@
       "height":"0.89 m",
       "weight":"19.5 kg",
       "candy":"Abra Candy",
-      "candy_count":"25",
+      "candy_count":25,
       "egg":"5 km",
       "multipliers":[
         1.36,
@@ -1683,7 +1683,7 @@
       "height":"1.30 m",
       "weight":"56.5 kg",
       "candy":"Abra Candy",
-      "candy_count":"100",
+      "candy_count":100,
       "egg":"Not in Eggs",
       "multipliers":1.4,
       "weaknesses":[
@@ -1740,7 +1740,7 @@
       "height":"0.79 m",
       "weight":"19.5 kg",
       "candy":"Machop Candy",
-      "candy_count":"25",
+      "candy_count":25,
       "egg":"5 km",
       "multipliers":[
         1.64,
@@ -1771,7 +1771,7 @@
       "height":"1.50 m",
       "weight":"70.5 kg",
       "candy":"Machop Candy",
-      "candy_count":"100",
+      "candy_count":100,
       "egg":"Not in Eggs",
       "multipliers":1.7,
       "weaknesses":[
@@ -1828,7 +1828,7 @@
       "height":"0.71 m",
       "weight":"4.0 kg",
       "candy":"Bellsprout Candy",
-      "candy_count":"25",
+      "candy_count":25,
       "egg":"5 km",
       "multipliers":1.57,
       "weaknesses":[
@@ -1857,7 +1857,7 @@
       "height":"0.99 m",
       "weight":"6.4 kg",
       "candy":"Bellsprout Candy",
-      "candy_count":"100",
+      "candy_count":100,
       "egg":"Not in Eggs",
       "multipliers":1.59,
       "weaknesses":[
@@ -1916,7 +1916,7 @@
       "height":"0.89 m",
       "weight":"45.5 kg",
       "candy":"Tentacool Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":2.52,
       "weaknesses":[
@@ -1963,7 +1963,7 @@
       "height":"0.41 m",
       "weight":"20.0 kg",
       "candy":"Geodude Candy",
-      "candy_count":"25",
+      "candy_count":25,
       "egg":"2 km",
       "multipliers":[
         1.75,
@@ -1997,7 +1997,7 @@
       "height":"0.99 m",
       "weight":"105.0 kg",
       "candy":"Geodude Candy",
-      "candy_count":"100",
+      "candy_count":100,
       "egg":"Not in Eggs",
       "multipliers":[
         1.64,
@@ -2063,7 +2063,7 @@
       "height":"0.99 m",
       "weight":"30.0 kg",
       "candy":"Ponyta Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":[
         1.48,
@@ -2113,7 +2113,7 @@
       "height":"1.19 m",
       "weight":"36.0 kg",
       "candy":"Slowpoke Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":2.21,
       "weaknesses":[
@@ -2164,7 +2164,7 @@
       "height":"0.30 m",
       "weight":"6.0 kg",
       "candy":"Magnemite Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":[
         2.16,
@@ -2230,7 +2230,7 @@
       "height":"1.40 m",
       "weight":"39.2 kg",
       "candy":"Doduo Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":[
         2.19,
@@ -2278,7 +2278,7 @@
       "height":"1.09 m",
       "weight":"90.0 kg",
       "candy":"Seel Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":[
         1.04,
@@ -2328,7 +2328,7 @@
       "height":"0.89 m",
       "weight":"30.0 kg",
       "candy":"Grimer Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":2.44,
       "weaknesses":[
@@ -2373,7 +2373,7 @@
       "height":"0.30 m",
       "weight":"4.0 kg",
       "candy":"Shellder Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":2.65,
       "weaknesses":[
@@ -2420,7 +2420,7 @@
       "height":"1.30 m",
       "weight":"0.1 kg",
       "candy":"Gastly Candy",
-      "candy_count":"25",
+      "candy_count":25,
       "egg":"5 km",
       "multipliers":1.78,
       "weaknesses":[
@@ -2449,7 +2449,7 @@
       "height":"1.60 m",
       "weight":"0.1 kg",
       "candy":"Gastly Candy",
-      "candy_count":"100",
+      "candy_count":100,
       "egg":"Not in Eggs",
       "multipliers":[
         1.56,
@@ -2531,7 +2531,7 @@
       "height":"0.99 m",
       "weight":"32.4 kg",
       "candy":"Drowzee Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":[
         2.08,
@@ -2581,7 +2581,7 @@
       "height":"0.41 m",
       "weight":"6.5 kg",
       "candy":"Krabby Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":[
         2.36,
@@ -2629,7 +2629,7 @@
       "height":"0.51 m",
       "weight":"10.4 kg",
       "candy":"Voltorb Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":[
         2.01,
@@ -2675,10 +2675,10 @@
       "height":"0.41 m",
       "weight":"2.5 kg",
       "candy":"Exeggcute Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":[
-        2.70,
+        2.7,
         3.18
       ],
       "weaknesses":[
@@ -2733,7 +2733,7 @@
       "height":"0.41 m",
       "weight":"6.5 kg",
       "candy":"Cubone Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":1.67,
       "weaknesses":[
@@ -2829,7 +2829,7 @@
       "height":"0.61 m",
       "weight":"1.0 kg",
       "candy":"Koffing Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":1.11,
       "weaknesses":[
@@ -2874,7 +2874,7 @@
       "height":"0.99 m",
       "weight":"115.0 kg",
       "candy":"Rhyhorn Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":1.91,
       "weaknesses":[
@@ -2976,7 +2976,7 @@
       "height":"0.41 m",
       "weight":"8.0 kg",
       "candy":"Horsea Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":2.23,
       "weaknesses":[
@@ -3021,7 +3021,7 @@
       "height":"0.61 m",
       "weight":"15.0 kg",
       "candy":"Goldeen Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":[
         2.15,
@@ -3069,7 +3069,7 @@
       "height":"0.79 m",
       "weight":"34.5 kg",
       "candy":"Staryu Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"5 km",
       "multipliers":[
         2.38,
@@ -3240,7 +3240,7 @@
       "height":"0.89 m",
       "weight":"10.0 kg",
       "candy":"Magikarp Candy",
-      "candy_count":"400",
+      "candy_count":400,
       "egg":"2 km",
       "multipliers":[
         10.1,
@@ -3321,7 +3321,7 @@
       "height":"0.30 m",
       "weight":"6.5 kg",
       "candy":"Eevee Candy",
-      "candy_count":"25",
+      "candy_count":25,
       "egg":"10 km",
       "multipliers":[
         2.02,
@@ -3435,7 +3435,7 @@
       "height":"0.41 m",
       "weight":"7.5 kg",
       "candy":"Omanyte Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"10 km",
       "multipliers":2.12,
       "weaknesses":[
@@ -3484,7 +3484,7 @@
       "height":"0.51 m",
       "weight":"11.5 kg",
       "candy":"Kabuto Candy",
-      "candy_count":"50",
+      "candy_count":50,
       "egg":"10 km",
       "multipliers":[
         1.97,
@@ -3621,7 +3621,7 @@
       "height":"1.80 m",
       "weight":"3.3 kg",
       "candy":"Dratini Candy",
-      "candy_count":"25",
+      "candy_count":25,
       "egg":"10 km",
       "multipliers":[
         1.83,
@@ -3652,7 +3652,7 @@
       "height":"3.99 m",
       "weight":"16.5 kg",
       "candy":"Dratini Candy",
-      "candy_count":"100",
+      "candy_count":100,
       "egg":"Not in Eggs",
       "multipliers":2.05,
       "weaknesses":[
