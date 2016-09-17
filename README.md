@@ -12,10 +12,13 @@ Pokédex of Pokémon GO in JSON
 *   **candy**: *type of candy used to evolve Pokémon or given when transfered*
 *   **candy_count**: *amount of candies required to evolve*
 *   **egg**: *Number of kilometers to travel to hatch the egg*
-*   **multipliers**: *Multipler of Combat Power (CP) for calculating the CP after evolution* **(NEW)**  [See below](#multipliers)
-*   **weakness**: *Types of Pokémon this Pokémon is weak to* **(NEW)**
-*   **next_evolution**: *Number and Name of successive evolutions of Pokémon* **(NEW)**
-*   **prev_evolution**: *Number and Name of previous evolutions of Pokémon* **(NEW)**
+*   **spawn_chance**: *Percentage of spawn chance* **(NEW)**
+*   **avg_spawns**: *Number of this pokemon on 10.000 spawns* **(NEW)**
+*   **spawn_time**: *Spawns most active at the time on this field. Spawn times are the same for all time zones and are expressed in local time.* **(NEW)**
+*   **multipliers**: *Multipler of Combat Power (CP) for calculating the CP after evolution*  [See below](#multipliers)
+*   **weakness**: *Types of Pokémon this Pokémon is weak to*
+*   **next_evolution**: *Number and Name of successive evolutions of Pokémon*
+*   **prev_evolution**: *Number and Name of previous evolutions of Pokémon*
 
 ## Multipliers
 
